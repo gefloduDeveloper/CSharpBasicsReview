@@ -1,0 +1,13 @@
+C:\Users\geflodu\source\repos\CSharpBasicsReview\CSharpReview\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\geflodu\source\repos\CSharpBasicsReview\CSharpReview\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\geflodu\source\repos\CSharpBasicsReview\CSharpReview\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\geflodu\source\repos\CSharpBasicsReview\CSharpReview\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\geflodu\source\repos\CSharpBasicsReview\CSharpReview\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\geflodu\source\repos\CSharpBasicsReview\CSharpReview\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\geflodu\source\repos\CSharpBasicsReview\CSharpReview\Variables\obj\Debug\netcoreapp3.1\Variables.csprojAssemblyReference.cache
+C:\Users\geflodu\source\repos\CSharpBasicsReview\CSharpReview\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\geflodu\source\repos\CSharpBasicsReview\CSharpReview\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\geflodu\source\repos\CSharpBasicsReview\CSharpReview\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+C:\Users\geflodu\source\repos\CSharpBasicsReview\CSharpReview\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\geflodu\source\repos\CSharpBasicsReview\CSharpReview\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\geflodu\source\repos\CSharpBasicsReview\CSharpReview\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
